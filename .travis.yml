@@ -1,0 +1,19 @@
+env:
+  global:
+    secure: bMgRI6WvfLlBttF3WXdIvF9U8o4EgLkl632duh+cQm+d/9L7rseUVawH40dQyhs+90k1i7LIl+juwuFZQWmsHN/1L4R7XsKEgcNWvCcApkbxS1h4pq/X816YzKjTtRSi/jaInr47CXb/pzJs2m68x/X8ZCqPmXBT8WJtI11Vp5I2AQ7Uc75OiU9pWcbARqUCzY227hgjtdO9F3zBgbhzfVZckmmHIP7ugL9wBH4eGAM3rlTmfDmvMFQ2eRASTRkszY844QRixMmjiVZfhSg4PB51qn3k6j68AlTzAQ0TmN8rSiadwwa6BZL+GXn97p3uveqmEfoI8gTuEMV0PXP5DtSaEEJvslIV9b3D4WnCNPKzua5rShzJ5QUqg3QCePAWUjP/6sGzczEtBbIAU2GD5xNzux/qIRWF5BP060q8Vhu90R8jcjJ7Qgln3nyfMK65y7Ob6duU0Fhlh/mn45mmo28KAnEJ9EjsnmQfZikfJPiS1oBfkliFQ2ya5zLUPyuRhlH8YS5uFp/wdXzD2j3+le85e5NrYFeVWzzu6t0miw7u83T61LICn23aKJQJnyRJa8q/Bl8VZwr23P5qPkTlFthH/qGliMgAYdyPPw+tgLq5itzkhe7s7csAO7IX3b0ukzjmLwv2ufLJ5htzaJDKj8FaCIcWByp5lWVs99J2960=
+    - GIT_DEPLOY_DIR=public # this is the default output dir of Hugo
+    - GIT_DEPLOY_BRANCH=gh-pages # this is the target branch, replace by gh-pages for Project Pages
+    - GIT_DEPLOY_USERNAME="authenticjazzweekend" # dummy name
+    - GIT_DEPLOY_EMAIL=sweetheartkorea@gmail.com # replace by your email
+branches:
+  only:
+    - master # replace by master for Project Pages
+
+install:
+  - rm -rf public || exit 0 # cleanup previous run
+script:
+  - binaries/hugo # generate!
+after_success:
+  - cp .travis.yml public # all branches need this file
+  - bash deploy.sh # run the deploy script
+

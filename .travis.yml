@@ -12,7 +12,7 @@ branches:
 install:
   - rm -rf dist || exit 0 # cleanup previous run
 script:
-  - binaries/hugo # generate!
+  - binaries/hugo -d dist # generate!
 after_success:
   - cp .travis.yml dist # all branches need this file
   - bash deploy.sh # run the deploy script

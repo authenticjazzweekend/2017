@@ -1,0 +1,94 @@
+baseurl = "http://www.authenticjazzweekend.com/2017"
+title = "Authentic Jazz Weekend 2017"
+languageCode = "ko-kr"
+theme="hugo-universal-theme"
+MetaDataFormat = "toml"
+disqusShortname = "ajw2017" # optional
+
+paginate = 10 # optional
+
+[params]
+  author = "sweetheart"
+
+  email = "sweetheartkorea@gmail.com"
+  about_us = "<p>Authentic Jazz Weekend by Sweet Heart Korea</p>"
+  copyright = "© 2016 by Sweet Heart Korea"
+  date_format = "2006-01-02"
+  logo = "img/logo.png"
+  photo = "images/photo.png" # optional
+  profile = "images/profile.png" # optional
+  cover = "images/cover.png" # optional
+  facebook = "authenticjazzweekend" # Your facebook Name" # optional
+  googleAnalyticsUserID = "UA-44532734-1" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:filename/" # optional
+
+[[params.menu]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[params.menu]]
+    name = "People"
+    url  = "/people/"
+    weight = 2
+
+[[params.menu]]
+    name = "Schedule"
+    url  = "/schedule/"
+    weight = 3
+
+[[params.menu]]
+    name = "Venues"
+    url  = "/venues/"
+    weight = 4
+
+[[params.menu]]
+    name = "Competition"
+    url  = "/competition/"
+    weight = 5
+
+[[params.menu]]
+    name = "Registration"
+    url  = "/registration/"
+    weight = 6
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 10
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = false
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Teachers"
+    subtitle = "We have talented dancers of FIVE!"
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.recent_posts]
+    enable = true
+    title = "RECENT POSTS"
+    subtitle = ""
+

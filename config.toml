@@ -1,4 +1,4 @@
-baseurl = "http://www.authenticjazzweekend.com/2017"
+baseurl = "http://www.authenticjazzweekend.com/2017/"
 title = "Authentic Jazz Weekend 2017"
 languageCode = "ko-kr"
 theme="hugo-universal-theme"

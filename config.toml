@@ -77,7 +77,7 @@ paginate = 10 # optional
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Teachers"
-    subtitle = "We have talented dancers of FIVE!"
+    subtitle = "We have talented teachers of FIVE!"
 
 [params.see_more]
     enable = false

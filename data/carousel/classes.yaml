@@ -1,4 +1,10 @@
 weight: 2
 title: "Classes"
-description: "<p>Amazing classes</p>"
+description: >
+  <ul class="list-style-none">
+    <li>Amazing Classes</li>
+    <li>Find your soul with teachers</li>
+    <li>Create your dance</li>
+    <li>and DO Dance!</li>
+  </ul>
 image: "img/classes.jpg"

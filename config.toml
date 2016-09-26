@@ -32,32 +32,32 @@ canonifyurls = true
 
 [[params.menu]]
     name = "People"
-    url  = "/people/"
+    url  = "/people"
     weight = 2
 
 [[params.menu]]
     name = "Schedule"
-    url  = "/schedule/"
+    url  = "/schedule"
     weight = 3
 
 [[params.menu]]
     name = "Venues"
-    url  = "/venues/"
+    url  = "/venues"
     weight = 4
 
 [[params.menu]]
     name = "Competition"
-    url  = "/competition/"
+    url  = "/competition"
     weight = 5
 
 [[params.menu]]
     name = "Registration"
-    url  = "/registration/"
+    url  = "/registration"
     weight = 6
 
 [[params.menu]]
     name = "Contact"
-    url  = "/contact/"
+    url  = "/contact"
     weight = 10
 
 [params.carousel]

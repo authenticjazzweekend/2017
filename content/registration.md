@@ -1,19 +1,20 @@
 +++
-date = "2016-09-23T00:58:52+09:00"
+date = "2016-09-27T00:29:15+09:00"
 draft = false
-title = "Registration will be open on 28th, September"
-banner = "img/ajw-poster-dual.jpg"
+title = "Registration"
+
 +++
 
 English ver. appears below Korean.
+
+# [신청링크:Registration Link](https://goo.gl/forms/8o3eOP1lrGBq9vrQ2)
+-----------------------------------------------
+
 
 # AJW 2017 신청안내 : 9/28(수) 13시입니다
 -----------------------------------------------
 
 ![Poster](/img/ajw-poster1.jpg)
-
-* 신청페이지 : http://www.authenticjazzweekend.com
-(13시 정각에 신청 Link가 활성화 됩니다)
 
 * 정원 및 가격:
   - "3트랙" 풀패키지: 1차 (24만/30명), 2차(25만/40명), 3차(26만/40명)
@@ -41,13 +42,11 @@ English ver. appears below Korean.
 ------
 
 # AJW 2017 Registration : 1pm, 28th, Septemper
+-----------------------------------------------
 
 ![Poster](/img/ajw-poster2.jpg)
 
 On-line registration will be open on September 28th 1pm for Authentic Jazz Weekend 2017 (5th Anniversary) in Korea.
-
-* Registration : http://www.authenticjazzweekend.com
-(Registration Link will be available at 13:00 KST)
 
 * Fee:
   - "3 Track" Full Package: 1st (240,000 KRW / 30 people), 2nd (250,000 KRW / 40 people), 3rd (260,000 KRW / 40 people)

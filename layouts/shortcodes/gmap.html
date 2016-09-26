@@ -1,0 +1,6 @@
+<div {{ with .Get "id" }}id="{{ . }}"{{ end }}>
+    <iframe src="https://www.google.com/maps/embed?pb={{ .Get 0 }}" 
+		{{ with .Get "width" }}width="{{ . }}"{{ else }}width="800"{{ end }}
+		{{ with .Get "height" }}height="{{ . }}"{{ else }}height="600"{{ end }}
+        frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>

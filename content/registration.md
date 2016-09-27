@@ -16,6 +16,8 @@ English ver. appears below Korean.
 
 ![Poster](/img/ajw-poster1.jpg)
 
+[신청링크](https://goo.gl/forms/8o3eOP1lrGBq9vrQ2)
+
 * 정원 및 가격:
   - "3트랙" 풀패키지: 1차 (24만/30명), 2차(25만/40명), 3차(26만/40명)
   - "퍼포먼스" 풀패키지: 25만(25명)
@@ -46,11 +48,13 @@ English ver. appears below Korean.
 
 ![Poster](/img/ajw-poster2.jpg)
 
+[Registration Link](https://goo.gl/forms/8o3eOP1lrGBq9vrQ2)
+
 On-line registration will be open on September 28th 1pm for Authentic Jazz Weekend 2017 (5th Anniversary) in Korea.
 
 * Fee:
   - "3 Track" Full Package: 1st (240,000 KRW / 30 people), 2nd (250,000 KRW / 40 people), 3rd (260,000 KRW / 40 people)
-  - "Performance" Full Package: 250000 KRW / 25 people
+  - "Performance" Full Package: 250,000 KRW / 25 people
 
 * Workshop
   - Full Package: total 9hrs workshop x 3 tracks

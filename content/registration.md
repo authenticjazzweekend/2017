@@ -21,8 +21,10 @@ English ver. appears below Korean.
 * 정원 및 가격:
   - "3트랙" 풀패키지: 1차 (24만/30명), 2차(25만/40명), 3차(26만/40명)
   - "퍼포먼스" 풀패키지: 25만(25명)
+  - 풀 파티 패키지: 9만원 (리더 20명 / 팔뤄 10명, 풀패키지 신청 성비에 의거함)
+  - 풀패키지 신청이 사전에 마감되어 Day Pass는 운영되지 않습니다.
 
-* 패키지 구성
+* 풀 패키지 구성
   - "3트랙" 풀패키지: 솔로재즈/린디합 워크샵 (토요일 5시간/일요일 4시간, 총 9시간×3트랙)
   - "퍼포먼스" 풀패키지: 토/일 각각 ADVANCED 워크샵 1시간 + 퍼포먼스 클래스2시간 + 연습 1시간
 
@@ -55,8 +57,10 @@ On-line registration will be open on September 28th 1pm for Authentic Jazz Weeke
 * Fee:
   - "3 Track" Full Package: 1st (240,000 KRW / 30 people), 2nd (250,000 KRW / 40 people), 3rd (260,000 KRW / 40 people)
   - "Performance" Full Package: 250,000 KRW / 25 people
+  - Full Party Package: 90,000 KRW (Leads 20명 / Follows 10명, According to Registration of Full Package)
+  - Day pass will not be open, because Full Packages are completely sold out.
 
-* Workshop
+* Full Workshop
   - Full Package: total 9hrs workshop x 3 tracks
   - "Performance" Full Package: 1hr advance class + 2hr performance class + 1hr practice in each day, advance classes with Ramona/Nathan, performance classes with Remy, Vincezo and Jo. all students will perform at the party with instructors
 
